@@ -8,4 +8,5 @@ public class CafeDao {
 	public void register2() {
 		
 	}
+	public void find() {}
 }
